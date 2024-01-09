@@ -4,9 +4,6 @@
 @end
 
 @interface SBFloatingDockController : NSObject
-- (BOOL)_canPresentFloatingDock;
-- (void)_dismissFloatingDockIfPresentedAnimated:(BOOL)arg1 completionHandler:(/*^block*/id)arg2;
-- (void)_presentFloatingDockIfDismissedAnimated:(BOOL)arg1 completionHandler:(/*^block*/id)arg2;
 @end
 
 @interface SBFloatingDockBehaviorAssertion : NSObject
