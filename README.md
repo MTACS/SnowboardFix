@@ -1,4 +1,4 @@
-``objective-c
+```objective-c
 #import <UIKit/UIKit.h>
 
 @interface SBHLibraryViewController : UIViewController
@@ -32,4 +32,4 @@
 }
 %end
 
-``
+```
